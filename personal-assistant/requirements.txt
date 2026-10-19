@@ -1,6 +1,0 @@
-anthropic>=1.15
-streamlit>=1.40
-google-api-python-client>=2.150
-google-auth-oauthlib>=1.2
-requests>=2.32
-python-dotenv>=1.0

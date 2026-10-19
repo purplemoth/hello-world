@@ -1,6 +1,0 @@
-# Private keys and logins - never upload these
-.env
-credentials.json
-token.json
-__pycache__/
-.venv/
